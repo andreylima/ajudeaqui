@@ -1,0 +1,44 @@
+
+.card
+{
+	width: 100%;
+}
+.card-img
+{
+	position: relative;
+	height: 180px;
+	overflow: hidden;
+	width: 100%;
+}
+.card-img img
+{
+	position: absolute;
+	top: -50%;
+}
+.badge
+{
+	margin-right: 5px;
+}
+.heart
+{
+	width: 25px;
+}
+.whatsapp
+{
+	width: 25px;	
+}
+.likeCounter
+{
+	margin: auto;
+	margin-left: 10px;
+}
+.contact li
+{
+	height: 53px;	
+}
+.chosen-container a
+{
+	height: 48px !important;
+    line-height: 48px !important;
+    font-size: 20px;
+}
